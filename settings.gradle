@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':lib_diems'
 rootProject.name='G_value'
