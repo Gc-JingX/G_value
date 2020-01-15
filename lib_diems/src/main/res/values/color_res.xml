@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ResourceName">
+
+    <color name="color_home">#00A6A5</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_999999">#999999</color>
+
+    <color name="color_fcfcfc">#FCFCFC</color>
+    <color name="color_00a6a5">#00A6A5</color>
+
+    <color name="color_dddddd">#DDDDDD</color>
+    <color name="color_ccc">#cccccc</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_9f9f9f">#9F9F9F</color>
+    <color name="color_eeeeee">#eeeeee</color>
+    <color name="color_29b56c">#29b56c</color>
+    <color name="color_efefef">#efefef</color>
+    <color name="color_F7F7F7">#F7F7F7</color>
+
+    <color name="color_f5a623">#F5A623</color>
+
+    <color name="color_222637">#222637</color>
+    <color name="color_e89a20">#e89a20</color>
+
+    <color name="color_fd4e59">#FD4E59</color>
+
+    <color name="color_fbb33">#ffffbb33</color>
+    <color name="color_737373">#737373</color>
+    <color name="color_2bc0c0">#2bc0c0</color>
+
+
+    <color name="color_8c6335">#8c6335</color>
+    <color name="color_aeb6b8">#AEB6B8</color>
+
+    <color name="color_eef5f3">#EEF5F3</color>
+    <color name="color_55ceab">#55ceab</color>
+
+
+    <color name="common_color_727272">#727272</color>
+    <color name="common_color_55c58b">#55C58B</color>
+    <color name="common_color_eef5f3">#ffeef5f3</color>
+    <color name="common_color_6f6f6f">#6F6F6F</color>
+</resources>
